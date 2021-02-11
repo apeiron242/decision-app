@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/decision-app/static/css/main.64587da7.chunk.css",
+    "main.js": "/decision-app/static/js/main.23cb349f.chunk.js",
+    "main.js.map": "/decision-app/static/js/main.23cb349f.chunk.js.map",
+    "runtime-main.js": "/decision-app/static/js/runtime-main.c8f3e870.js",
+    "runtime-main.js.map": "/decision-app/static/js/runtime-main.c8f3e870.js.map",
+    "static/js/2.1fb41036.chunk.js": "/decision-app/static/js/2.1fb41036.chunk.js",
+    "static/js/2.1fb41036.chunk.js.map": "/decision-app/static/js/2.1fb41036.chunk.js.map",
+    "index.html": "/decision-app/index.html",
+    "static/css/main.64587da7.chunk.css.map": "/decision-app/static/css/main.64587da7.chunk.css.map",
+    "static/js/2.1fb41036.chunk.js.LICENSE.txt": "/decision-app/static/js/2.1fb41036.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8f3e870.js",
+    "static/js/2.1fb41036.chunk.js",
+    "static/css/main.64587da7.chunk.css",
+    "static/js/main.23cb349f.chunk.js"
+  ]
+}
